@@ -1,2 +1,0 @@
-# Biomedical-devices-list
-Devices
